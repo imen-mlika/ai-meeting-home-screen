@@ -49,10 +49,10 @@ Its structure was developed using the Google Labs Code `DESIGN.md` format as a r
 
 ## Prototype
 
-The prototype is available inside the `dist` folder:
+The prototype is available inside the `docs` folder:
 
 ```text
-dist/
+docs/
 ├── index.html
 ├── styles.css
 └── app.js
@@ -67,7 +67,7 @@ ai-meeting-home-screen/
 ├── README.md
 ├── DESIGN.md
 ├── preview.png
-└── dist/
+└── docs/
     ├── index.html
     ├── styles.css
     └── app.js
