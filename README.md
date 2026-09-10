@@ -37,11 +37,15 @@ The experience is structured around four main needs:
 
 ## Design Specification
 
-The complete design specification is available in:
+The complete design specification for this project is available in:
 
 [View DESIGN.md](DESIGN.md)
 
-The specification documents the visual language, layout, spacing, typography, components, interaction patterns, and other design decisions used in the interface.
+The `DESIGN.md` file documents the visual language, layout, spacing, typography, components, interaction patterns, and other design decisions used in the interface.
+
+Its structure was developed using the Google Labs Code `DESIGN.md` format as a reference:
+
+[Google Labs Code — DESIGN.md Format Specification](https://github.com/google-labs-code/design.md/blob/main/docs/spec.md)
 
 ## Prototype
 
