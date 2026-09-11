@@ -2,6 +2,14 @@
 
 A high-fidelity AI meeting companion interface designed to help users review meetings, understand key decisions, track action items, and ask AI questions about previous discussions.
 
+## Video Walkthrough
+
+[![Watch the full workflow on YouTube](https://img.youtube.com/vi/-6aoRUWaqMc/maxresdefault.jpg)](https://www.youtube.com/watch?v=-6aoRUWaqMc)
+
+▶️ [Watch the full workflow on YouTube](https://www.youtube.com/watch?v=-6aoRUWaqMc)
+
+## UI Preview
+
 ![AI Meeting Home Screen Preview](preview.png)
 
 ## Overview
